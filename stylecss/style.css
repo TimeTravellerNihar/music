@@ -1,0 +1,21 @@
+
+p
+{
+  color: red;
+}
+li.atif, h3.atif{
+  color: orange;
+}
+h1 + p {
+  font-size: 200%;
+}
+p:hover{
+  color : blue;
+}
+h1:hover{
+  color: purple;
+}
+body
+{
+  margin: 0px 20px 30px 60px;
+}
